@@ -5229,12 +5229,12 @@ gatsby-plugin-create-client-paths@^2.6.0:
   dependencies:
     "@babel/runtime" "^7.12.5"
 
-gatsby-plugin-gatsby-cloud@^0.0.5:
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-gatsby-cloud/-/gatsby-plugin-gatsby-cloud-0.0.5.tgz#f307376539fd24605e2cb9440e99c9fa01e360fd"
-  integrity sha512-XtxTpOSW5gy6td+n4kOodqTQzqftZvyFm9op+emVNHkMkSg3VJeA7NPbKGUkQzoieOraBOdBpqGQ7KbD8mvBbQ==
+gatsby-plugin-gatsby-cloud@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-gatsby-cloud/-/gatsby-plugin-gatsby-cloud-1.0.1.tgz#f5ded9ef8a7f481de10cca51643b24b4e9e109c9"
+  integrity sha512-sSRv2AhpsQhhRhlOjcFGG1JalJ5ZIX3/q0lDpv9zjeY/B+/AyCjqKjtnlq1idgafp4/IL8MLmKMMqdjICXKdXQ==
   dependencies:
-    "@babel/runtime" "^7.11.2"
+    "@babel/runtime" "^7.12.5"
     fs-extra "^8.1.0"
     kebab-hash "^0.1.2"
     lodash "^4.17.20"
